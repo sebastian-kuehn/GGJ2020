@@ -75,3 +75,6 @@ GGJ2020/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 GGJ2020/DerivedDataCache/*
+
+GGJ2020/GGJ2020_WwiseProject/*
+GGJ2020/Plugins/*
